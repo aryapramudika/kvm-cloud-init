@@ -7,4 +7,18 @@ Clone this repo
 
 and change the env like a, vm name, username, password, dir.
 
+VM_NAME="yourvmname" //change this
+
+USERNAME="arya" //change this
+
+PASSWORD="arya" //change this
+
+CPU="1" //change this
+
+MEMORY="1024" //change this
+
+NETWORK="br-net" //change this
+
+DIR="/AR" //change this
+
 Execute with ./kvm-provisioning.sh
