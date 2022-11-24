@@ -13,8 +13,8 @@ and change the env like a, **vm name**, **username**,**password**, **dir**.
 
 **PASSWORD="arya" //change this**
 
-**CPU="1" //change this
-**
+**CPU="1" //change this **
+
 **MEMORY="1024" //change this**
 
 **NETWORK="br-net" //change this**
